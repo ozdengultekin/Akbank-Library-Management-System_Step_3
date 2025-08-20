@@ -1,6 +1,6 @@
 # Akbank-Library-Management-System_Step_3
 
-# Kütüphane Yönetim Sistemi (RESTful API)
+# Kütüphane Yönetim Sistemi (RESTful API +FastAPI +Streamlit)
 ## GİRİŞ
 Bu repo, Global AI Hub Python 202 Bootcamp sürecinde geliştirilen bitirme projesi kapsamında hazırlanmıştır.<br>
 Proje, FastAPI kullanılarak inşa edilmiş RESTful bir kütüphane yönetim sistemidir.<br>
