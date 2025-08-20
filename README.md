@@ -16,7 +16,7 @@ Requests (Open Library API çağrıları için)<br>
 Streamlit (Kullanıcı arayüzü için) <br>
 
 ## ⚙️ Kurulum
-
+Pycharm da proje oluşturulmuştur. 
 1.  Ortamı aktif edin:
 
     python -m venv .venv
@@ -36,3 +36,13 @@ Streamlit (Kullanıcı arayüzü için) <br>
 
 5. http://127.0.0.1:8000/docs çalıştığına emin olduktan sonra terminalden streamlit run app.py
 
+## Kullanım
+Kurulum kısmnında 5. maddedeki işlem yapıldığında arayüz ekranı gelecektir. Sağdaki menüde herhangi bir CRUD işlemini seçerek sistemi test edebilirsiniz. 
+
+## Testler
+
+End point testleri için Swagger_Test_Doc_Exp dosyası hazırlanmış olup, bu end pointlerin çalışırlığı test edilmiştir.<br>
+
+Unit testler Library sınıfının metodlarını test etmek için yaratılmıştır.(test_api.py)<br>
+
+API endpoint’leri ise bu metodları HTTP üzerinden çağırır. Yani Swagger’de test ettiğiniz endpoint’ler, bu unit testlerin “HTTP arayüzü” halidir.
