@@ -1,4 +1,4 @@
-# Akbank-Library-Management-System_Step_3
+9# Akbank-Library-Management-System_Step_3
 
 # Kütüphane Yönetim Sistemi (RESTful API +FastAPI +Streamlit)
 ## GİRİŞ
@@ -12,7 +12,6 @@ Python 3.10+
 FastAPI (REST API için) <br>
 Uvicorn (ASGI server) <br>
 Pydantic (Veri doğrulama için)<br>
-Requests (Open Library API çağrıları için)<br>
 Streamlit (Kullanıcı arayüzü için) <br>
 
 ## ⚙️ Kurulum
